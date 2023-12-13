@@ -2,5 +2,11 @@
 {
     public class Student
     {
+
+
+
+
+
+        public int MSSV { get; set; }
     }
 }
